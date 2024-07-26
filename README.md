@@ -20,8 +20,8 @@ This is a simple Todo application built with React, Next.js, and Node.js. The ap
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
-cd todo-app
+git clone https://github.com/bharathsurya021/todolist-nextjs.git todos
+cd todos
 ```
 
 ### Install Dependencies
